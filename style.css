@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedan:ital@0;1&display=swap');
+
+.titulo-principal {
+    text-align: center;
+    font-size: 70px;
+    font-family: "Sedan", serif;
+
+}
+
+
+body {
+     
+    background-repeat: no-repeat;
+    background-size: 120%;
+
+}
+
+.primeiro-texto {
+    text-align: start;
+    font-size: 35px;
+
+
+}
+
+.texto-geral {
+
+    color: black;
+}
